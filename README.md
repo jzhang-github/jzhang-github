@@ -8,7 +8,7 @@
 - :man_scientist: [Google Scholar](https://scholar.google.com/citations?user=EvTN9dsAAAAJ&hl=en)
 - 🎓: [My CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html)
 
-- :email: [Email](jzhang@gbu.edu.cn)
+- :email: [Email](mailto:jzhang@gbu.edu.cn)
 
 
 <!---
