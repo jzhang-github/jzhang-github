@@ -17,3 +17,5 @@
 jzhang-github/jzhang-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**长期招收深度学习势、理论计算、多相催化、高熵合金等方向研究助理，有意向者欢迎联系[jzhang@gbu.edu.cn](mailto:jzhang@gbu.edu.cn)。**
